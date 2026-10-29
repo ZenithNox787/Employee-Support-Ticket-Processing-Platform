@@ -1,0 +1,1402 @@
+[
+  {
+    "ticket_id": "TKT-0001",
+    "employee_id": "EMP-002",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0002",
+    "employee_id": "EMP-048",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0003",
+    "employee_id": "EMP-006",
+    "description": "Stationery supply is running out",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0004",
+    "employee_id": "EMP-006",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0005",
+    "employee_id": "EMP-002",
+    "description": "Stationery supply is running out",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0006",
+    "employee_id": "EMP-027",
+    "description": "Parking sticker renewal",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0007",
+    "employee_id": "EMP-052",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "high",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0008",
+    "employee_id": "EMP-045",
+    "description": "Keyboard keys are not responding",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0009",
+    "employee_id": "EMP-014",
+    "description": "Monitor flickers and goes black",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0010",
+    "employee_id": "EMP-007",
+    "description": "Update bank details for salary credit",
+    "urgency": "high",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0011",
+    "employee_id": "EMP-017",
+    "description": "Request a new desk near my team",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0012",
+    "employee_id": "EMP-008",
+    "description": "Book conference room for a client visit",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0013",
+    "employee_id": "EMP-054",
+    "description": "Role change: please grant access to the HR dashboard",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0014",
+    "employee_id": "EMP-003",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0015",
+    "employee_id": "EMP-055",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0016",
+    "employee_id": "EMP-018",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0017",
+    "employee_id": "EMP-011",
+    "description": "Role change: please grant access to the HR dashboard",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0018",
+    "employee_id": "EMP-045",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0019",
+    "employee_id": "EMP-035",
+    "description": "Printer on floor 2 shows a paper jam",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0020",
+    "employee_id": "EMP-018",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0021",
+    "employee_id": "EMP-015",
+    "description": "VPN keeps disconnecting when working from home",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0022",
+    "employee_id": "EMP-018",
+    "description": "Payslip for last month is missing",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0023",
+    "employee_id": "EMP-057",
+    "description": "ID card lost, need a replacement",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0024",
+    "employee_id": "EMP-026",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0025",
+    "employee_id": "EMP-016",
+    "description": "Monitor flickers and goes black",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0026",
+    "employee_id": "EMP-058",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0027",
+    "employee_id": "EMP-033",
+    "description": "Keyboard keys are not responding",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0028",
+    "employee_id": "EMP-056",
+    "description": "VPN keeps disconnecting when working from home",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0029",
+    "employee_id": "EMP-051",
+    "description": "Keyboard keys are not responding",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0030",
+    "employee_id": "EMP-025",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0031",
+    "employee_id": "EMP-056",
+    "description": "Request a new desk near my team",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0032",
+    "employee_id": "EMP-044",
+    "description": "Unable to login to the ERP portal after the update",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0033",
+    "employee_id": "EMP-008",
+    "description": "Role change: please grant access to the HR dashboard",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0034",
+    "employee_id": "EMP-001",
+    "description": "Update bank details for salary credit",
+    "urgency": "critical",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0035",
+    "employee_id": "EMP-033",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "high",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0036",
+    "employee_id": "EMP-054",
+    "description": "Need admin rights on my workstation",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0037",
+    "employee_id": "EMP-035",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0038",
+    "employee_id": "EMP-002",
+    "description": "Payslip for last month is missing",
+    "urgency": "high",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0039",
+    "employee_id": "EMP-016",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0040",
+    "employee_id": "EMP-006",
+    "description": "Request a new desk near my team",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0041",
+    "employee_id": "EMP-049",
+    "description": "Unable to login to the ERP portal after the update",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0042",
+    "employee_id": "EMP-043",
+    "description": "Keyboard keys are not responding",
+    "urgency": "critical",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0043",
+    "employee_id": "EMP-017",
+    "description": "Keyboard keys are not responding",
+    "urgency": "critical",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0044",
+    "employee_id": "EMP-049",
+    "description": "Parking sticker renewal",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0045",
+    "employee_id": "EMP-043",
+    "description": "Update bank details for salary credit",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0046",
+    "employee_id": "EMP-029",
+    "description": "Request a new desk near my team",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0047",
+    "employee_id": "EMP-022",
+    "description": "VPN keeps disconnecting when working from home",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0048",
+    "employee_id": "EMP-038",
+    "description": "Printer on floor 2 shows a paper jam",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0049",
+    "employee_id": "EMP-015",
+    "description": "VPN keeps disconnecting when working from home",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0050",
+    "employee_id": "EMP-005",
+    "description": "Need admin rights on my workstation",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0051",
+    "employee_id": "EMP-014",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0052",
+    "employee_id": "EMP-037",
+    "description": "Book conference room for a client visit",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0053",
+    "employee_id": "EMP-052",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0054",
+    "employee_id": "EMP-043",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0055",
+    "employee_id": "EMP-030",
+    "description": "Payslip for last month is missing",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0056",
+    "employee_id": "EMP-004",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0057",
+    "employee_id": "EMP-016",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0058",
+    "employee_id": "EMP-009",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0059",
+    "employee_id": "EMP-016",
+    "description": "Payslip for last month is missing",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0060",
+    "employee_id": "EMP-007",
+    "description": "Request a new desk near my team",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0061",
+    "employee_id": "EMP-054",
+    "description": "Request a new desk near my team",
+    "urgency": "critical",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0062",
+    "employee_id": "EMP-011",
+    "description": "Keyboard keys are not responding",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0063",
+    "employee_id": "EMP-056",
+    "description": "Keyboard keys are not responding",
+    "urgency": "high",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0064",
+    "employee_id": "EMP-025",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "critical",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0065",
+    "employee_id": "EMP-060",
+    "description": "Access to the server rack is denied",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0066",
+    "employee_id": "EMP-043",
+    "description": "Book conference room for a client visit",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0067",
+    "employee_id": "EMP-014",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0068",
+    "employee_id": "EMP-004",
+    "description": "ID card lost, need a replacement",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0069",
+    "employee_id": "EMP-031",
+    "description": "Stationery supply is running out",
+    "urgency": "high",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0070",
+    "employee_id": "EMP-011",
+    "description": "Request a new desk near my team",
+    "urgency": "critical",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0071",
+    "employee_id": "EMP-055",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0072",
+    "employee_id": "EMP-044",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0073",
+    "employee_id": "EMP-016",
+    "description": "Stationery supply is running out",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0074",
+    "employee_id": "EMP-006",
+    "description": "Book conference room for a client visit",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0075",
+    "employee_id": "EMP-034",
+    "description": "ID card lost, need a replacement",
+    "urgency": "critical",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0076",
+    "employee_id": "EMP-043",
+    "description": "Monitor flickers and goes black",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0077",
+    "employee_id": "EMP-009",
+    "description": "Update bank details for salary credit",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0078",
+    "employee_id": "EMP-001",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0079",
+    "employee_id": "EMP-007",
+    "description": "Request a new desk near my team",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0080",
+    "employee_id": "EMP-017",
+    "description": "Parking sticker renewal",
+    "urgency": "critical",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0081",
+    "employee_id": "EMP-057",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0082",
+    "employee_id": "EMP-029",
+    "description": "Monitor flickers and goes black",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0083",
+    "employee_id": "EMP-001",
+    "description": "Stationery supply is running out",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0084",
+    "employee_id": "EMP-057",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0085",
+    "employee_id": "EMP-048",
+    "description": "Unable to login to the ERP portal after the update",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0086",
+    "employee_id": "EMP-039",
+    "description": "Need admin rights on my workstation",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0087",
+    "employee_id": "EMP-044",
+    "description": "Monitor flickers and goes black",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0088",
+    "employee_id": "EMP-058",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0089",
+    "employee_id": "EMP-054",
+    "description": "Update bank details for salary credit",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0090",
+    "employee_id": "EMP-050",
+    "description": "Need admin rights on my workstation",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0091",
+    "employee_id": "EMP-011",
+    "description": "Access to the server rack is denied",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0092",
+    "employee_id": "EMP-036",
+    "description": "Payslip for last month is missing",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0093",
+    "employee_id": "EMP-035",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "high",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0094",
+    "employee_id": "EMP-036",
+    "description": "Parking sticker renewal",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0095",
+    "employee_id": "EMP-020",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0096",
+    "employee_id": "EMP-058",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0097",
+    "employee_id": "EMP-043",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0098",
+    "employee_id": "EMP-057",
+    "description": "Book conference room for a client visit",
+    "urgency": "critical",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0099",
+    "employee_id": "EMP-060",
+    "description": "Printer on floor 2 shows a paper jam",
+    "urgency": "high",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0100",
+    "employee_id": "EMP-057",
+    "description": "Keyboard keys are not responding",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0101",
+    "employee_id": "EMP-051",
+    "description": "Access to the server rack is denied",
+    "urgency": "high",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0102",
+    "employee_id": "EMP-018",
+    "description": "Printer on floor 2 shows a paper jam",
+    "urgency": "high",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0103",
+    "employee_id": "EMP-025",
+    "description": "VPN keeps disconnecting when working from home",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0104",
+    "employee_id": "EMP-013",
+    "description": "Keyboard keys are not responding",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0105",
+    "employee_id": "EMP-015",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0106",
+    "employee_id": "EMP-022",
+    "description": "Update bank details for salary credit",
+    "urgency": "high",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0107",
+    "employee_id": "EMP-023",
+    "description": "Access to the server rack is denied",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0108",
+    "employee_id": "EMP-022",
+    "description": "Request a new desk near my team",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0109",
+    "employee_id": "EMP-012",
+    "description": "Role change: please grant access to the HR dashboard",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0110",
+    "employee_id": "EMP-028",
+    "description": "ID card lost, need a replacement",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0111",
+    "employee_id": "EMP-028",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0112",
+    "employee_id": "EMP-013",
+    "description": "ID card lost, need a replacement",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0113",
+    "employee_id": "EMP-001",
+    "description": "Question about my leave balance",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0114",
+    "employee_id": "EMP-043",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0115",
+    "employee_id": "EMP-047",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0116",
+    "employee_id": "EMP-021",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0117",
+    "employee_id": "EMP-009",
+    "description": "Parking sticker renewal",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0118",
+    "employee_id": "EMP-044",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0119",
+    "employee_id": "EMP-026",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0120",
+    "employee_id": "EMP-028",
+    "description": "Monitor flickers and goes black",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0121",
+    "employee_id": "EMP-044",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0122",
+    "employee_id": "EMP-043",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0123",
+    "employee_id": "EMP-022",
+    "description": "Request a new desk near my team",
+    "urgency": "high",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0124",
+    "employee_id": "EMP-044",
+    "description": "Monitor flickers and goes black",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0125",
+    "employee_id": "EMP-010",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0126",
+    "employee_id": "EMP-040",
+    "description": "Payslip for last month is missing",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0127",
+    "employee_id": "EMP-013",
+    "description": "Book conference room for a client visit",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0128",
+    "employee_id": "EMP-010",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "high",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0129",
+    "employee_id": "EMP-050",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0130",
+    "employee_id": "EMP-030",
+    "description": "Request a new desk near my team",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0131",
+    "employee_id": "EMP-030",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0132",
+    "employee_id": "EMP-036",
+    "description": "Stationery supply is running out",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0133",
+    "employee_id": "EMP-040",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "high",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0134",
+    "employee_id": "EMP-029",
+    "description": "Parking sticker renewal",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0135",
+    "employee_id": "EMP-029",
+    "description": "Update bank details for salary credit",
+    "urgency": "high",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0136",
+    "employee_id": "EMP-050",
+    "description": "Access to the server rack is denied",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0137",
+    "employee_id": "EMP-029",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0138",
+    "employee_id": "EMP-018",
+    "description": "Monitor flickers and goes black",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0139",
+    "employee_id": "EMP-006",
+    "description": "Parking sticker renewal",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0140",
+    "employee_id": "EMP-045",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0141",
+    "employee_id": "EMP-027",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0142",
+    "employee_id": "EMP-027",
+    "description": "Payslip for last month is missing",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0143",
+    "employee_id": "EMP-025",
+    "description": "Payslip for last month is missing",
+    "urgency": "high",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0144",
+    "employee_id": "EMP-025",
+    "description": "Book conference room for a client visit",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0145",
+    "employee_id": "EMP-020",
+    "description": "Access to the server rack is denied",
+    "urgency": "high",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0146",
+    "employee_id": "EMP-035",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0147",
+    "employee_id": "EMP-028",
+    "description": "Access to the server rack is denied",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0148",
+    "employee_id": "EMP-043",
+    "description": "Access to the server rack is denied",
+    "urgency": "medium",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0149",
+    "employee_id": "EMP-059",
+    "description": "Question about my leave balance",
+    "urgency": "critical",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0150",
+    "employee_id": "EMP-002",
+    "description": "Book conference room for a client visit",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0151",
+    "employee_id": "EMP-006",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0152",
+    "employee_id": "EMP-012",
+    "description": "Payslip for last month is missing",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0153",
+    "employee_id": "EMP-014",
+    "description": "Access to the server rack is denied",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0154",
+    "employee_id": "EMP-018",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0155",
+    "employee_id": "EMP-031",
+    "description": "VPN keeps disconnecting when working from home",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0156",
+    "employee_id": "EMP-023",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0157",
+    "employee_id": "EMP-049",
+    "description": "VPN keeps disconnecting when working from home",
+    "urgency": "critical",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0158",
+    "employee_id": "EMP-054",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0159",
+    "employee_id": "EMP-009",
+    "description": "Keyboard keys are not responding",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0160",
+    "employee_id": "EMP-014",
+    "description": "Book conference room for a client visit",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0161",
+    "employee_id": "EMP-011",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "high",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0162",
+    "employee_id": "EMP-020",
+    "description": "Laptop battery drains within an hour",
+    "urgency": "medium",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0163",
+    "employee_id": "EMP-037",
+    "description": "Access to the server rack is denied",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0164",
+    "employee_id": "EMP-005",
+    "description": "Printer on floor 2 shows a paper jam",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0165",
+    "employee_id": "EMP-055",
+    "description": "Request permission to view the finance shared folder",
+    "urgency": "high",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0166",
+    "employee_id": "EMP-051",
+    "description": "Request a new desk near my team",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0167",
+    "employee_id": "EMP-043",
+    "description": "Update bank details for salary credit",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0168",
+    "employee_id": "EMP-001",
+    "description": "Access to the server rack is denied",
+    "urgency": "high",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0169",
+    "employee_id": "EMP-028",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0170",
+    "employee_id": "EMP-046",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0171",
+    "employee_id": "EMP-042",
+    "description": "ID card lost, need a replacement",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0172",
+    "employee_id": "EMP-050",
+    "description": "Book conference room for a client visit",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0173",
+    "employee_id": "EMP-018",
+    "description": "ID card lost, need a replacement",
+    "urgency": "high",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0174",
+    "employee_id": "EMP-018",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0175",
+    "employee_id": "EMP-037",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0176",
+    "employee_id": "EMP-055",
+    "description": "Update bank details for salary credit",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0177",
+    "employee_id": "EMP-023",
+    "description": "Monitor flickers and goes black",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0178",
+    "employee_id": "EMP-045",
+    "description": "ID card lost, need a replacement",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0179",
+    "employee_id": "EMP-013",
+    "description": "Request a new desk near my team",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0180",
+    "employee_id": "EMP-032",
+    "description": "Question about my leave balance",
+    "urgency": "medium",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0181",
+    "employee_id": "EMP-029",
+    "description": "Payslip for last month is missing",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0182",
+    "employee_id": "EMP-026",
+    "description": "Printer on floor 2 shows a paper jam",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0183",
+    "employee_id": "EMP-024",
+    "description": "Book conference room for a client visit",
+    "urgency": "medium",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0184",
+    "employee_id": "EMP-028",
+    "description": "Role change: please grant access to the HR dashboard",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0185",
+    "employee_id": "EMP-018",
+    "description": "Update bank details for salary credit",
+    "urgency": "low",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0186",
+    "employee_id": "EMP-047",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0187",
+    "employee_id": "EMP-049",
+    "description": "Parking sticker renewal",
+    "urgency": "low",
+    "true_category": "Administration"
+  },
+  {
+    "ticket_id": "TKT-0188",
+    "employee_id": "EMP-018",
+    "description": "Update bank details for salary credit",
+    "urgency": "critical",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0189",
+    "employee_id": "EMP-019",
+    "description": "Printer on floor 2 shows a paper jam",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0190",
+    "employee_id": "EMP-001",
+    "description": "Need admin rights on my workstation",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0191",
+    "employee_id": "EMP-036",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0192",
+    "employee_id": "EMP-041",
+    "description": "Keyboard keys are not responding",
+    "urgency": "low",
+    "true_category": "Hardware"
+  },
+  {
+    "ticket_id": "TKT-0193",
+    "employee_id": "EMP-037",
+    "description": "Need software installed: Python and VS Code",
+    "urgency": "medium",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0194",
+    "employee_id": "EMP-022",
+    "description": "Question about my leave balance",
+    "urgency": "critical",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0195",
+    "employee_id": "EMP-056",
+    "description": "Access to the server rack is denied",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0196",
+    "employee_id": "EMP-026",
+    "description": "Wifi is very slow on the third floor",
+    "urgency": "low",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0197",
+    "employee_id": "EMP-010",
+    "description": "Outlook email is not syncing on my phone",
+    "urgency": "high",
+    "true_category": "IT"
+  },
+  {
+    "ticket_id": "TKT-0198",
+    "employee_id": "EMP-006",
+    "description": "Need admin rights on my workstation",
+    "urgency": "low",
+    "true_category": "Access"
+  },
+  {
+    "ticket_id": "TKT-0199",
+    "employee_id": "EMP-039",
+    "description": "Question about my leave balance",
+    "urgency": "high",
+    "true_category": "HR"
+  },
+  {
+    "ticket_id": "TKT-0200",
+    "employee_id": "EMP-029",
+    "description": "Query on health insurance benefits policy",
+    "urgency": "low",
+    "true_category": "HR"
+  }
+]
